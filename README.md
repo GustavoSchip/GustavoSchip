@@ -16,11 +16,17 @@
 
 <div>
   <div align="left">
-    <a>Projects</a>
+    <div>
+      <h3>Projects</h3>
+    </div>
     <table>
       <tr>
-        <td align="center"><a href=""><b></b></a></td>
-        <td align="center"><a href=""><b></b></a></td>
+        <td align="center"><a href="https://github.com/GustavoSchip/Upsilon"><b>Upsilon fork</b></a></td>
+        <td align="left"><a>This is my custom version of the Upsilon OS for my Numworks N0110 calculator! I started this project because I needed a more free and controllable version, this is what started me into C/C++!</a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="https://github.com/GustavoSchip/Upsilon/tree/main/python"><b>MicroPython fork</b></a></td>
+        <td align="left"><a>There is a direct link to be found in the above project, as it is a github submodule for the custom Python interpreter for my fork of Upsilon! This implementationn of MicroPython gives me the link between my custom and powerfull C/C++ calls and calls that are exposed to the end user (via python). I have learned much about how (Micro)Python works and is structured, I fell in love with the simplicity of the Python language!</a></td>
       </tr>
     </table>
   </div>
