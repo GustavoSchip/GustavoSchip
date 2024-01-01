@@ -1,6 +1,7 @@
 <h1 align="center">My name is Gustavo Schip</h1>
 <h3 align="center">A passionate C/C++, Python developer from the Netherlands</h3>
 
+<!--
 <div align="center">
   <table>
     <tr>
@@ -9,3 +10,4 @@
     </tr>
   </table>
 </div>
+-->
