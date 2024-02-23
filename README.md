@@ -15,6 +15,7 @@
 
 <div>
   <div align="left">
+    <!--
     <div>
       <h3>Projects</h3>
     </div>
@@ -29,6 +30,7 @@
       </tr>
     </table>
   </div>
+  -->
   <br>
   <div align="left">
     <a><b>Contact: </b><a href="mailto:gustavoschip@proton.me"><i>gustavoschip@proton.me</i></a></a>
