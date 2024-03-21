@@ -1,3 +1,15 @@
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GustavoSchip&show_icons=true&theme=dark" width="960" height="400">
-</div>
+# Welcome to my profile 👋
+
+<br>
+
+```py
+def main() -> None:
+    print("Check the source of this README.md :wink:") 
+
+if __name__ == "__main__":
+    main()
+```
+
+<!--
+    Hi there, if you are seeing this...
+-->
