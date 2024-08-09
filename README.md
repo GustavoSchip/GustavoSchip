@@ -1,12 +1,6 @@
 # Welcome to my profile 👋
 
-### **Behold the sacred donut(.py), guarded by mystical algorithms and wizardry! 🍩✨**
-
-### Required ingredients: 
-####  - A pinch of 'math' module magic 🧙‍♂️
-####  - A dash of trigonometric trickery 📐
-####  - A sprinkle of ASCII art sorcery 🎨
-####  - And a dollop of chaotic charm! 🌪️
+### **Behold the sacred donut(.py):**
 
 ```py
 while ('o_' in dir()) or (A := (0)
